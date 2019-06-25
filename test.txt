@@ -1,2 +1,12 @@
-pmcd - Peter McDonald
-CARREG
+0. Peter
+1. Yasin
+2. Ahmed 
+3. Ramitha
+4. Joo
+5. Theodore 
+6. Jack
+7. Phillip
+8. Eve
+9. Nam
+10. Carreg
+(10/17)
